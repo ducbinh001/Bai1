@@ -1,0 +1,26 @@
+import java.io.IOException;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+
+public class newmain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Document doc;
+		try {
+			doc=Jsoup.connect("http://dantri.com.vn").get();
+			String s=doc.title();
+			System.out.println(s);
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+	}
+
+}

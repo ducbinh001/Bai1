@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-03-26T13:00:30</date>
+  <millis>1522044030734</millis>
+  <sequence>0</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11399</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:32</date>
+  <millis>1522044032892</millis>
+  <sequence>1</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11390</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:34</date>
+  <millis>1522044034969</millis>
+  <sequence>2</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11390</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:37</date>
+  <millis>1522044037044</millis>
+  <sequence>3</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11391</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:39</date>
+  <millis>1522044039138</millis>
+  <sequence>4</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11408</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:41</date>
+  <millis>1522044041230</millis>
+  <sequence>5</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11417</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:43</date>
+  <millis>1522044043314</millis>
+  <sequence>6</sequence>
+  <logger>Bai 1</logger>
+  <level>Debug</level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11421</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:45</date>
+  <millis>1522044045402</millis>
+  <sequence>7</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11424</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:47</date>
+  <millis>1522044047479</millis>
+  <sequence>8</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11405</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:49</date>
+  <millis>1522044049751</millis>
+  <sequence>9</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11408</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:51</date>
+  <millis>1522044051821</millis>
+  <sequence>10</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11423</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:53</date>
+  <millis>1522044053896</millis>
+  <sequence>11</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11425</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:55</date>
+  <millis>1522044055969</millis>
+  <sequence>12</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11426</message>
+</record>
+<record>
+  <date>2018-03-26T13:00:58</date>
+  <millis>1522044058040</millis>
+  <sequence>13</sequence>
+  <logger>Bai 1</logger>
+  <level>Debug</level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11439</message>
+</record>
+<record>
+  <date>2018-03-26T13:01:00</date>
+  <millis>1522044060132</millis>
+  <sequence>14</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11431</message>
+</record>
+<record>
+  <date>2018-03-26T13:01:02</date>
+  <millis>1522044062203</millis>
+  <sequence>15</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11447</message>
+</record>
+<record>
+  <date>2018-03-26T13:01:04</date>
+  <millis>1522044064291</millis>
+  <sequence>16</sequence>
+  <logger>Bai 1</logger>
+  <level></level>
+  <class>MyThead</class>
+  <method>run</method>
+  <thread>11</thread>
+  <message>11429</message>
+</record>
